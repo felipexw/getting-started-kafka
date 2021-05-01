@@ -5,5 +5,8 @@
 /settings
 .project
 .settings
+/lib/bin
+/lib/.classpath
+/lib/.settings
 # Ignore Gradle build output directory
 build
